@@ -37,6 +37,6 @@ You will need Python 3.x installed on your machine.
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/light-caster-abyssal-survivor.git](https://github.com/YourUsername/light-caster-abyssal-survivor.git)
-   cd light-caster-abyssal-survivor
+   git clone [https://github.com/lilyshi5201-lgtm/shooting.git](https://github.com/lilyshi5201-lgtm/shooting.git)
+or You can just download my release file for fast play!
    
